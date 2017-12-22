@@ -1,8 +1,3 @@
-# Worldbank Climatedata Analysis
-
-
-
-
 # Climate-Change-Analysis
 World Bank Climate Data Analysis
 
@@ -21,7 +16,7 @@ Group Project:  Global Climate Analytics
 
 
 
-## Group Members:      
+## Group Members:  	
 Buddhika Sameera 
 Manura Dissanayake 
 
@@ -119,85 +114,4 @@ This provides an animation timely changing relationship between the response var
 MAP visualization to observe how the explanatory variables are distributed globally. This is provided to for the user to further have a sense of the data we use. For example, which data is not is not available, the variable distribution etc. 
 
 ## TAB 4: Reference Data 
-This tab include explanation of variables.
-
-From: Manura Dissanayake 
-Sent: Tuesday, December 19, 2017 9:03 AM
-To: Buddhika Sameera <buddhika.sameera@axiatadigital.com>
-Subject: RE: Climate Change Analysis
-
-http://rpubs.com/Manura/GlobalClimateAnalytics1
-
-
-difficult to do styling..
-let’s try to finalise in the evening..
-
-Manura Dissanayake | Axiata Intelligence Unit 
-Axiata Digital 
-Axiata Group Berhad (242188H)
-Level 32, Axiata Tower, 9 Jalan Stesen Sentral 5, 
-KL Sentral, 50470 Kuala Lumpur, Malaysia.
-Mobile :+60196752376
-
-From: Manura Dissanayake 
-Sent: Tuesday, 19 December, 2017 8:23 AM
-To: Buddhika Sameera <buddhika.sameera@axiatadigital.com>
-Subject: RE: Climate Change Analysis
-
-Select a good font 
-
-https://fonts.google.com/
-
-
-Manura Dissanayake | Axiata Intelligence Unit 
-Axiata Digital 
-Axiata Group Berhad (242188H)
-Level 32, Axiata Tower, 9 Jalan Stesen Sentral 5, 
-KL Sentral, 50470 Kuala Lumpur, Malaysia.
-Mobile :+60196752376
-
-From: Manura Dissanayake 
-Sent: Tuesday, 19 December, 2017 5:59 AM
-To: Buddhika Sameera <buddhika.sameera@axiatadigital.com>
-Subject: RE: Climate Change Analysis
-
-https://manura.shinyapps.io/Climate-Change-Analysis/
-
-Finalllllyyyyyyyyyyyyyyy………………..:(
-
-
-Manura Dissanayake | Axiata Intelligence Unit 
-Axiata Digital 
-Axiata Group Berhad (242188H)
-Level 32, Axiata Tower, 9 Jalan Stesen Sentral 5, 
-KL Sentral, 50470 Kuala Lumpur, Malaysia.
-Mobile :+60196752376
-
-From: Manura Dissanayake 
-Sent: Sunday, 17 December, 2017 11:12 AM
-To: Buddhika Sameera <buddhika.sameera@axiatadigital.com>
-Subject: Climate Change Analysis
-
-We can try this tomorrow after exams ……
-
-https://github.com/Manura-D/Climate-Change-Analysis
-
-
-selected measurement series :
-
-
-"SP.POP.TOTL", "SP.POP.GROW", "SP.URB.TOTL",
-                                        "SP.URB.GROW", "NY.GDP.MKTP.CD", "BX.KLT.DINV.WD.GD.ZS",
-                                        "EN.ATM.CO2E.KT" , "EN.ATM.CO2E.PC", 
-                                        "EN.ATM.CO2E.PP.GD.KD", "EG.USE.PCAP.KG.OE",
-                                        "EG.USE.COMM.GD.PP.KD", "EN.URB.MCTY.TL.ZS",
-                                        "IE.PPI.TELE.CD", "IS.ROD.PAVE.ZS"
-
-
-Manura Dissanayake | Axiata Intelligence Unit 
-Axiata Digital 
-Axiata Group Berhad (242188H)
-Level 32, Axiata Tower, 9 Jalan Stesen Sentral 5, 
-KL Sentral, 50470 Kuala Lumpur, Malaysia.
-Mobile :+60196752376
-
+This tab include explanation of variables. 
